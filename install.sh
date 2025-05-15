@@ -2,9 +2,9 @@
 
 THEME_SOURCE=https://github.com/stepanzubkov/sddm-theme-archi3.git
 if [[ -n $USE_QT5 ]]; then
-    THEME_DIR=where_is_my_sddm_theme_qt5
+    THEME_DIR=sddm-theme-archi3_qt5
 else
-    THEME_DIR=where_is_my_sddm_theme
+    THEME_DIR=sddm-theme-archi3
 fi
 SDDM_THEMES_DIR=/usr/share/sddm/themes/
 SDDM_CONFIG_PATH=/etc/sddm.conf.d/kde_settings.conf:/etc/sddm.conf
