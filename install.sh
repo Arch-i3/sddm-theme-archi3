@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THEME_SOURCE=https://github.com/stepanzubkov/sddm-theme-archi3.git
+THEME_SOURCE=https://github.com/sandorkakuk/sddm-theme-archi3.git
 if [[ -n $USE_QT5 ]]; then
     THEME_DIR=sddm-theme-archi3_qt5
 else
