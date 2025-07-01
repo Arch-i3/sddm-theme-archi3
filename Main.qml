@@ -58,7 +58,7 @@ Rectangle {
         height: 32
         anchors.left: parent.left
         anchors.right: parent.right
-        anchors.top: parent.top
+        anchors.bottom: parent.bottom
     }
 
     DropShadow {
@@ -72,7 +72,7 @@ Rectangle {
     }
 
     Row {
-        anchors.top: parent.top
+        anchors.bottom: parent.bottom
         anchors.right: parent.right
         anchors.rightMargin: 30
         anchors.topMargin: 5
@@ -113,7 +113,7 @@ Rectangle {
     }
 
     Row {
-        anchors.top: parent.top
+        anchors.bottom: parent.bottom
         anchors.right: parent.right
         anchors.rightMargin: 60
         anchors.topMargin: 5
@@ -154,7 +154,7 @@ Rectangle {
     }
 
     Row {
-        anchors.top: parent.top
+        anchors.bottom: parent.bottom
         anchors.right: parent.right
         anchors.rightMargin: 70
         anchors.topMargin: 5
@@ -175,7 +175,7 @@ Rectangle {
         }
     }
     Row {
-        anchors.top: parent.top
+        anchors.bottom: parent.bottom
         anchors.right: parent.right
         anchors.rightMargin: 120
         anchors.topMargin: 4
@@ -188,7 +188,7 @@ Rectangle {
     }
 
     Row {
-        anchors.top: parent.top
+        anchors.bottom: parent.bottom
         anchors.left: parent.left
         anchors.leftMargin: 10
         anchors.topMargin: 5
