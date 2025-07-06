@@ -75,7 +75,8 @@ Rectangle {
         anchors.bottom: parent.bottom
         anchors.right: parent.right
         anchors.rightMargin: 30
-        anchors.topMargin: 5
+        anchors.
+topMargin: 5
 
         Item {
 
