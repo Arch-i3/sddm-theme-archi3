@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=archi3
+Description=Minimalista téma alsó sávval
+Author=TeNeved
+Copyright=(c) 2025
+License=GPL
+Type=sddm-theme
+Version=0.1
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=archi3
